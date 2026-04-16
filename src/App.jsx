@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import växter from "./vaxter.json";
 
 // ============================================================
@@ -109,6 +110,15 @@ export default function App() {
       </div>
 
       <div style={{ background: "white", borderRadius: "4px", boxShadow: "0 2px 24px rgba(44,58,30,0.10)", padding: "1rem", width: "min(96vw, 840px)" }}>
+        <TransformWrapper minScale={0.5} maxScale={8} wheel={{ step: 0.1 }} centerOnInit>
+          {({ resetTransform }) => (<>
+          <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: "0.4rem" }}>
+            <button onClick={() => resetTransform()} style={{
+              background: "none", border: "1px solid #c8be9a", borderRadius: "2px",
+              padding: "0.2rem 0.6rem", fontSize: "0.8rem", color: "#4a5a3a", cursor: "pointer"
+            }}>Återställ zoom</button>
+          </div>
+          <TransformComponent wrapperStyle={{ width: "100%", display: "block" }} contentStyle={{ width: "100%" }}>
         <svg viewBox="40 88 153 133" width="100%" style={{ display: "block" }} onClick={handleSvgClick}>
           <defs>
             <pattern id="dots" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
@@ -205,6 +215,9 @@ export default function App() {
           )}
 
         </svg>
+          </TransformComponent>
+          </>)}
+        </TransformWrapper>
       </div>
 
       {clickedPos && (
