@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link, useSearchParams } from "react-router-dom";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import växter from "./vaxter.json";
 
@@ -40,6 +41,12 @@ function PlantSymbol({ x, y, typ, aktiv }) {
 }
 
 export default function App() {
+  const [searchParams] = useSearchParams();
+  const artSlug = searchParams.get("art");
+  const markerade = artSlug
+    ? växter.filter(v => v.lank === `/arter/${artSlug}`)
+    : [];
+
   const [showLabels, setShowLabels] = useState(false);
   const [showLegend, setShowLegend] = useState(true);
   const [selected, setSelected] = useState(null);
@@ -60,6 +67,7 @@ export default function App() {
     pt.y = e.clientY;
     const svgP = pt.matrixTransform(svg.getScreenCTM().inverse());
     setClickedPos({ x: Math.round(svgP.x), y: Math.round(svgP.y) });
+    setSelected(null);
   }
 
   return (
@@ -84,6 +92,11 @@ export default function App() {
         }
       `}</style>
 
+      <div style={{ alignSelf: "flex-start", marginBottom: "0.5rem" }}>
+        <Link to="/" style={{ fontSize: "0.85rem", color: "#5a7a3a", textDecoration: "none", letterSpacing: "0.05em" }}>
+          ← Startsida
+        </Link>
+      </div>
       <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: "1.8rem", color: "#2c3a1e", marginBottom: "0.3rem" }}>
         Agunnaryds allmänna skogsträdgård
       </h1>
@@ -158,6 +171,12 @@ export default function App() {
               style={{ pointerEvents: "none" }}/>
           ))}
 
+          {markerade.map(v => (
+            <circle key={`markerad-${v.id}`} cx={v.x} cy={v.y} r={R * 2.2}
+              fill="none" stroke="#d03a2a" strokeWidth="0.8"
+              style={{ pointerEvents: "none" }}/>
+          ))}
+
           {växter.filter(v => visibleTypes[v.typ]).map(v => (
             <g key={v.id} className="vaxt-punkt"
               onClick={e => { e.stopPropagation(); setSelected(selected?.id === v.id ? null : v); }}
@@ -165,11 +184,18 @@ export default function App() {
               onMouseLeave={() => setHovered(null)}
             >
               <PlantSymbol x={v.x} y={v.y} typ={v.typ} aktiv={selected?.id === v.id}/>
-              {(showLabels || selected?.id === v.id) && (
+              {showLabels && (
                 <text x={v.x + R + 1} y={v.y + 1.5} fontSize="2.5" fill="#2c3a1e">{v.namn}</text>
               )}
             </g>
           ))}
+
+          {selected && (
+            <g style={{ pointerEvents: "none" }}>
+              <rect x={selected.x + R + 0.5} y={selected.y - 3} width={selected.namn.length * 1.8 + 4} height="6" fill="#2c3a1e" rx="1" opacity="0.9"/>
+              <text x={selected.x + R + 2.5} y={selected.y + 1} fontSize="2.5" fill="#f4efe6">{selected.namn}</text>
+            </g>
+          )}
 
           {hovered && hovered.id !== selected?.id && (
             <g transform={`translate(${hovered.x + 5}, ${hovered.y - 6})`} style={{ pointerEvents: "none" }}>
@@ -246,13 +272,13 @@ export default function App() {
           <p style={{ marginTop: "0.8rem", fontSize: "0.95rem", color: "#4a5a3a", fontStyle: "italic", lineHeight: 1.6 }}>
             Kort beskrivning kommer här...
           </p>
-          <a href={selected.lank} style={{
+          <Link to={selected.lank} style={{
             display: "inline-block", marginTop: "1rem",
             padding: "0.45rem 1.1rem", background: "#3a5a20", color: "#f4efe6",
             textDecoration: "none", borderRadius: "2px", fontSize: "0.88rem",
           }}>
-            Las mer om {selected.namn} &rarr;
-          </a>
+            Läs mer om {selected.namn} →
+          </Link>
         </div>
       )}
     </div>
