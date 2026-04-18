@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import Startsida from './Startsida.jsx'
 import App from './App.jsx'
 import VaxtLista from './VaxtLista.jsx'
@@ -9,7 +9,7 @@ import ArtsSida from './ArtsSida.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/skogstradgard">
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Startsida />} />
         <Route path="/karta" element={<App />} />
@@ -17,6 +17,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/om" element={<Om />} />
         <Route path="/arter/:id" element={<ArtsSida />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>,
 )
