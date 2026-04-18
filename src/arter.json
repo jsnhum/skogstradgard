@@ -394,13 +394,13 @@
     "namn": "Vallört",
     "latinskt": "Symphytum officinale",
     "typ": "ört",
-    "atlig": "delvis",
+    "atlig": "nej",
     "bild": "",
-    "kortbeskrivning": "En kraftig läkeört med djupgående rötter som pumpar upp näring – ovärderlig som mullmaterial och flytande gödning.",
-    "beskrivning": "Vallört är en robust, flerårig ört med stora, breda blad och klockformade blommor i lila, rosa eller vitt. Rötterna kan gå djupt i marken och hämta upp mineraler som andra växter inte når. Den har länge använts i folkmedicin och är i modern trädgårdsodling mest känd som gödningsväxt.",
-    "anvandning": "Vallört används som 'dynamic accumulator' – bladen läggs som mulch eller nedbryts i vatten till en kraftig, kväve- och kaliumrik gödsel. Bladen kan i liten mängd tillsättas kompost. OBS: inre bruk rekommenderas ej utan expertis – roten innehåller pyrrolizidinalkaloider.",
-    "skotsel": "Extremt tålig och spridningsvillig – svår att bli av med när den väl etablerats. Planteras medvetet och avsiktligt. Trivs i de flesta jordar.",
-    "lokalt": "Vallört växer i en stor valört längs mittlinjen i trädgårdens centrala parti, från syd till nord."
+    "kortbeskrivning": "En kraftig växt med djupgående rötter som pumpar upp näring – ovärderlig som mullmaterial och flytande gödning.",
+    "beskrivning": "Vallört är en robust, flerårig ört med stora, breda blad och klockformade blommor i lila, rosa eller vitt. Rötterna kan gå djupt i marken och hämta upp mineraler som andra växter inte når. Den har tidigare använts i folkmedicin men är i modern trädgårdsodling mest känd som gödningsväxt.",
+    "anvandning": "Vallört används som 'dynamic accumulator' – bladen läggs som mulch eller nedbryts i vatten till en kraftig, kväve- och kaliumrik gödsel. Bladen kan i liten mängd tillsättas kompost. OBS: inre bruk rekommenderas ej – växten innehåller skadliga pyrrolizidinalkaloider.",
+    "skotsel": "Vanlig vallört är extremt tålig och spridningsvillig – svår att bli av med när den väl etablerats. Den sort som odlas här, 'Bocking 14', är dock steril och förökas endast genom rotsticklingar. Trivs i de flesta jordar.",
+    "lokalt": "Vallört växer som avgränsning längs mittlinjen i trädgårdens centrala parti, från syd till nord."
   },
   {
     "id": "apple",
@@ -413,7 +413,7 @@
     "beskrivning": "Äppleträdet är ett av de viktigaste fruktträden i det svenska klimatet och finns i hundratals sorter med olika smak, lagringsegenskaper och mogningstider. Trädet blommar vackert i maj och frukterna mognar från juli till oktober beroende på sort.",
     "anvandning": "Äpplen äts färska, pressas till must och cider, kokas till sylt och mos, torkas och bakas med. De flesta sorter kan lagras under lång tid i källare eller kylrum.",
     "skotsel": "Vill ha sol, väldrän och bördig jord. Beskär regelbundet på tidiga våren för att hålla kronan öppen. Plocka frukt innan den faller för bäst kvalitet.",
-    "lokalt": "Vi har ett äppleträd i mittpartiet av trädgården."
+    "lokalt": "Vi har ett äppleträd i mittpartiet av trädgården. Det är, som sig bör i en småländsk trädgår, av sorten Astrakan"
   },
   {
     "id": "ronn",
@@ -426,7 +426,7 @@
     "beskrivning": "Rönn är ett av Sveriges vanligaste och mest välkända träd, med karaktäristiska fjäderblad och rika klasar av orange-röda bär i höst. Trädet blommar i maj med vita blomflockar. Bären är syrliga och beska råa men omvandlas till goda produkter vid kokning.",
     "anvandning": "Rönnsaft och rönnbärsgelé är klassiska svenska produkter. Bären kokas med socker och används till gelé, saft och likör. Fåglarna äter bären med förtjusning – sidensvansen brukar tömma trädet.",
     "skotsel": "Trivs i de flesta jordar och lägen, även i halvskugga. Kräver minimal skötsel. Tålig och härdig.",
-    "lokalt": "Vi har en rönn i mittpartiet av trädgården."
+    "lokalt": "Vi har en rönn i mittpartiet av trädgården. Den är ett så kallat amträd som främst ska bidra med gödande biomassa i form av löv och bär"
   },
   {
     "id": "pelarplommon",
