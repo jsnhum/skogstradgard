@@ -34,13 +34,36 @@ export default function Om() {
       </div>
 
       <div style={{ maxWidth: 640, margin: "0 auto", padding: "1.5rem 1.5rem 4rem" }}>
+
         <p style={{
           fontSize: "1.15rem", fontStyle: "italic", color: "#4a5a3a",
           borderLeft: "3px solid #7a9a4a", paddingLeft: "1rem",
           marginBottom: "2rem", lineHeight: 1.65,
         }}>
-          Text om projektet kommer här.
+          Agunnaryds Allmänna Skogsträdgård är ett projekt sponsrat av Agunnarydsstiftelsen
+          och är en del av att öka attraktiviteten hos dammområdet i byn Bråna.
+          Tanken är att det ska bli både något som Agunnarydsbor i gemen och besökare
+          kan glädjas åt och inspireras av.
         </p>
+
+        <section style={{ marginBottom: "1.8rem" }}>
+          <h2>Vad är en skogsträdgård?</h2>
+          <p>
+            En skogsträdgård är inte en trädgård i en skog, utan en trädgård där framför allt
+            ätbara växter, frukter och bär odlas på ett sätt som imiterar skogens förmåga att
+            producera biomassa. Trädgården anläggs i flera skikt bestående av höga och låga träd,
+            buskar, örtartade växter och marktäckare som tillsammans bildar ett system som med
+            tiden blir (nästan) självskötande.
+          </p>
+        </section>
+
+        <section style={{ marginBottom: "1.8rem" }}>
+          <h2>Bakgrund</h2>
+          <p>
+            Arbetet med den allmänna skogsträdgården påbörjades 2024 och föregicks av en studiecirkel.
+          </p>
+        </section>
+
       </div>
     </div>
   );

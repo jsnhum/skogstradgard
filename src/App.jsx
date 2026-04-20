@@ -7,10 +7,10 @@ import växter from "./vaxter.json";
 // SYMBOLER PER TYP
 // ============================================================
 const typConfig = {
-  träd:        { färg: "#3a6e28", symbol: "circle",   etikett: "Träd",         storlek: 1.5 },
-  buske:       { färg: "#7a9a4a", symbol: "circle",   etikett: "Buske",        storlek: 1.0 },
-  ört:         { färg: "#c8832a", symbol: "diamond",  etikett: "Ört",          storlek: 1.0 },
-  marktäckare: { färg: "#a0b060", symbol: "triangle", etikett: "Marktäckare",  storlek: 1.0 },
+  träd:        { färg: "#3a6e28", symbol: "circle",   etikett: "Träd",         storlek: 2.5 },
+  buske:       { färg: "#3a7a6a", symbol: "circle",   etikett: "Buske",        storlek: 1.5 },
+  ört:         { färg: "#a04a2a", symbol: "diamond",  etikett: "Ört",          storlek: 1.0 },
+  marktäckare: { färg: "#8a9a2a", symbol: "triangle", etikett: "Marktäckare",  storlek: 1.0 },
   klätterväxt: { färg: "#6a5a9a", symbol: "square",   etikett: "Klätterväxt",  storlek: 1.0 },
 };
 
@@ -132,15 +132,15 @@ export default function App() {
             }}>Återställ zoom</button>
           </div>
           <TransformComponent wrapperStyle={{ width: "100%", display: "block" }} contentStyle={{ width: "100%" }}>
-        <svg viewBox="40 88 153 133" width="100%" style={{ display: "block" }} onClick={handleSvgClick}>
+        <svg viewBox="40 88 178 133" width="100%" style={{ display: "block" }} onClick={handleSvgClick}>
           <defs>
             <pattern id="dots" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
               <circle cx="1.5" cy="1.5" r="0.8" fill="#c8be9a" opacity="0.5"/>
             </pattern>
           </defs>
 
-          <rect x="0" y="0" width="210" height="297" fill="#7a9a5a"/>
-          <rect x="0" y="0" width="210" height="297" fill="url(#dots)"/>
+          <rect x="0" y="0" width="240" height="297" fill="#7a9a5a"/>
+          <rect x="0" y="0" width="240" height="297" fill="url(#dots)"/>
 
           <polygon points="48,97 185,97 177,216 112,213" fill="#f5f0b0" stroke="none"/>
           <polygon points="48,97 185,97 177,216 112,213" fill="url(#dots)" opacity="0.4"/>

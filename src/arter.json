@@ -10,7 +10,7 @@
     "beskrivning": "Häggmispel är en nordamerikansk buske eller litet träd som trivs utmärkt i det svenska klimatet. Den blommar vackert i vitt tidigt på våren, ofta redan i april, och producerar rikligt med bär i juli. Bären är söta och saftiga med en mild mandelsmak och används gärna för sylt, saft eller direkt ur handen.",
     "anvandning": "Bären är fullt ätliga och mycket goda, rika på antioxidanter. De kan ätas råa, användas i sylt, saft, bakverk eller torkas. Häggmispelar är också populära prydnadsbuskar tack vare sin vårblomning och vackra höstfärger i rött och orange.",
     "skotsel": "Häggmispeln kräver mycket lite skötsel. Den trivs i sol till halvskugga och i de flesta jordtyper. Beskärning är sällan nödvändig men kan göras efter blomning om man vill forma busken. Vattna under etableringsåret.",
-    "lokalt": "Vi har fyra häggmispelsbuskar planterade längs den västra kanten och i den södra delen av trädgården. De fungerar som kantväxter och ger bär tidigt på sommaren."
+    "lokalt": "Vi har fyra häggmispelsbuskar av olika sor planterade längs den västra kanten av trädgården. De fungerar som kantväxter och ger bär tidigt på sommaren. Sorterna är, från norr till söder: Northline, Honeywood, Smokey, Thiessen"
   },
   {
     "id": "roda-vinbar",
@@ -23,7 +23,7 @@
     "beskrivning": "Röda vinbär är en av de mest välkända och lättskötta bärbuskarna i svenska trädgårdar. Busken blir 1–1,5 meter hög och bred, med karaktäristiska, flerkluvna löv. Bären hänger i långa klasar och mognar i juli. De är syrliga och friska i smaken och passar utmärkt till sylt, gelé, saft och desserter.",
     "anvandning": "Röda vinbär är rika på C-vitamin och antioxidanter. De används traditionellt för sylt, gelé och saft, men fungerar också bra i bakverk, som garnering eller till köttiga rätter som sås. Bären kan frysas och bevaras länge.",
     "skotsel": "Trivs i sol till halvskugga i fuktig, mullrik jord. Beskär bort gamla, tjocka grenar efter skörd för att stimulera nya skott. Mullra gärna runt busken på hösten.",
-    "lokalt": "Vi har två röda vinbärsbuskar i trädgården, längs den norra kanten och i den södra delen."
+    "lokalt": "Vi har två röda vinbärsbuskar i trädgården, längs västra kanten."
   },
   {
     "id": "rosa-vinbar",
@@ -275,14 +275,14 @@
   {
     "id": "loparfetblad",
     "namn": "Löparfetblad",
-    "latinskt": "Sedum stoloniferum",
+    "latinskt": "Sedum sarmentosum",
     "typ": "marktäckare",
-    "atlig": "nej",
+    "atlig": "ja",
     "bild": "",
-    "kortbeskrivning": "En kompakt och torktålig marktäckare med rosafärgade blommor – bildar en tät, lågväxt matta.",
-    "beskrivning": "Löparfetblad är ett lågväxt fetblad som breder ut sig via utlöpare och bildar en tät, dekorativ matta. Det är ett utmärkt val för att täcka marken under buskar och träd. Plantorna blommar med klara rosablommor på sommaren.",
-    "anvandning": "Inte ätlig, men värdefull som trädgårdsväxt för dess marktäckande egenskaper, torktålighet och fina blomning.",
-    "skotsel": "Extremt tålig och lättskött. Trivs i sol till halvskugga i de flesta jordar, även torr. Kräver knappt något underhåll.",
+    "kortbeskrivning": "En ätlig och torktålig marktäckare med krispiga, milda skott och lång skördesäsong.",
+    "beskrivning": "Löparfetblad är ett lågväxt fetblad som breder ut sig via utlöpare och bildar en tät matta. Det trivs i sol till halvskugga och klarar torr och mager jord – till och med torr skugga. Det tränger inte undan omkringliggande växter och är ett utmärkt val under buskar och träd. Blommorna lockar pollinerare.",
+    "anvandning": "Skotten och blomknopparna är ätliga – krispiga och milda i smaken. Klipp av skott och lägg direkt i sallad. Skördesäsongen är lång och sträcker sig från vår långt in på hösten. Börja med små mängder och se till att plantan inte behandlats med bekämpningsmedel.",
+    "skotsel": "Extremt lättskött. Trivs i de flesta jordar, även torr och mager. Förökar sig via utlöpare utan att bli invasiv. Kräver knappt något underhåll.",
     "lokalt": "Löparfetblad täcker marken i den centrala delen av trädgården."
   },
   {
@@ -466,5 +466,18 @@
     "anvandning": "Hallon äts färska, fryses, kokas till sylt och saft, eller används i bakverk och desserter. Hallonsaft och hallonjam är klassiker. Bären är rika på C-vitamin och antioxidanter.",
     "skotsel": "Trivs i sol till halvskugga i mullrik, fuktig jord. Skär bort gamla tvåårsskott efter skörd. Bind upp skotten mot ett stöd för lättare hantering.",
     "lokalt": "Vi har tre hallonplantor längs den östra kanten av trädgården."
+  },
+  {
+    "id": "humle",
+    "namn": "Humle",
+    "latinskt": "Humulus lupulus",
+    "typ": "klätterväxt",
+    "atlig": "ja",
+    "bild": "",
+    "kortbeskrivning": "En kraftig inhemsk klätterväxt med aromatiska kottar – känd som ölkrydda men också värdefull som mat och medicin.",
+    "beskrivning": "Humle är en flerårig klätterväxt som kan skjuta skott upp till 6–8 meter per säsong. Den är tvåkönad – det är honplantorna som bildar de karaktäristiska kottarna. Humle är inhemskt i Sverige och trivs längs skogsbryn och i halvskuggiga lägen. På hösten vissnar blasten ned till marken, för att skjuta upp igen på våren.",
+    "anvandning": "Kottarna används för att smaksätta och konservera öl – en tradition som går tillbaka till medeltiden. Unga skott på våren är ätliga och kan tillagas som sparris. Kottarna har också lugnande egenskaper och används i örttillverkning. Torkade kottar används i sovkuddar mot oro och sömnproblem.",
+    "skotsel": "Trivs i sol till halvskugga i mullrik, fuktig jord. Behöver stöd att klättra på – störar, staket eller trådar. Skär ned blasten på hösten. Kan sprida sig kraftigt via jordstammar.",
+    "lokalt": "Vi har två rader humle planterade ca 3 meter öster om trädgårdens östgräns, längs störar eller trådar."
   }
 ]
