@@ -2,12 +2,13 @@ import { useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import växter from "./vaxter.json";
+import arterData from "./arter.json";
 
 // ============================================================
 // SYMBOLER PER TYP
 // ============================================================
 const typConfig = {
-  träd:        { färg: "#3a6e28", symbol: "circle",   etikett: "Träd",         storlek: 2.5 },
+  träd:        { färg: "#3a6e28", symbol: "circle",   etikett: "Träd",         storlek: 2.0 },
   buske:       { färg: "#3a7a6a", symbol: "circle",   etikett: "Buske",        storlek: 1.5 },
   ört:         { färg: "#a04a2a", symbol: "diamond",  etikett: "Ört",          storlek: 1.0 },
   marktäckare: { färg: "#8a9a2a", symbol: "triangle", etikett: "Marktäckare",  storlek: 1.0 },
@@ -269,9 +270,27 @@ export default function App() {
             </div>
             <button onClick={() => setSelected(null)} style={{ background: "none", border: "none", cursor: "pointer", color: "#8a7a5a", fontSize: "1.2rem" }}>x</button>
           </div>
-          <p style={{ marginTop: "0.8rem", fontSize: "0.95rem", color: "#4a5a3a", fontStyle: "italic", lineHeight: 1.6 }}>
-            Kort beskrivning kommer här...
-          </p>
+          {(() => {
+            const slug = selected.lank.split("/").pop();
+            const art = arterData.find(a => a.id === slug);
+            if (!art) return null;
+            return (
+              <div style={{ marginTop: "0.8rem", display: "flex", gap: "0.9rem", alignItems: "flex-start" }}>
+                {art.bild && (
+                  <img
+                    src={art.bild}
+                    alt={art.namn}
+                    style={{ width: 72, height: 72, objectFit: "cover", borderRadius: "3px", flexShrink: 0, border: "1px solid #c8be9a" }}
+                  />
+                )}
+                {art.kortbeskrivning && (
+                  <p style={{ fontSize: "0.95rem", color: "#4a5a3a", fontStyle: "italic", lineHeight: 1.6 }}>
+                    {art.kortbeskrivning}
+                  </p>
+                )}
+              </div>
+            );
+          })()}
           <Link to={selected.lank} style={{
             display: "inline-block", marginTop: "1rem",
             padding: "0.45rem 1.1rem", background: "#3a5a20", color: "#f4efe6",
@@ -281,6 +300,7 @@ export default function App() {
           </Link>
         </div>
       )}
+
     </div>
   );
 }

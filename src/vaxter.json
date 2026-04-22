@@ -20,6 +20,7 @@
   { "id": "libsticka-1", "namn": "Libsticka", "x": 111, "y": 112, "typ": "ört", "lank": "/arter/libsticka" },
   { "id": "akerbar-1", "namn": "Åkerbär", "x": 104, "y": 127, "typ": "marktäckare", "lank": "/arter/akerbar" },
   { "id": "smultron-1", "namn": "Smultron", "x": 101, "y": 123, "typ": "marktäckare", "lank": "/arter/smultron" },
+  { "id": "smulgubbe-1", "namn": "Smulgubbe", "x": 104, "y": 125, "typ": "marktäckare", "lank": "/arter/smulgubbe" },
   { "id": "kastanj-1", "namn": "Kastanj", "x": 118, "y": 124, "typ": "träd", "lank": "/arter/kastanj" },
   { "id": "svarta-vinbar-2", "namn": "Svarta vinbär", "x": 64, "y": 121, "typ": "buske", "lank": "/arter/svarta-vinbar" },
   { "id": "rosa-vinbar-1", "namn": "Rosa vinbär", "x": 71, "y": 132, "typ": "buske", "lank": "/arter/rosa-vinbar" },

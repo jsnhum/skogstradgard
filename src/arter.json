@@ -23,7 +23,7 @@
     "beskrivning": "Röda vinbär är en av de mest välkända och lättskötta bärbuskarna i svenska trädgårdar. Busken blir 1–1,5 meter hög och bred, med karaktäristiska, flerkluvna löv. Bären hänger i långa klasar och mognar i juli. De är syrliga och friska i smaken och passar utmärkt till sylt, gelé, saft och desserter.",
     "anvandning": "Röda vinbär är rika på C-vitamin och antioxidanter. De används traditionellt för sylt, gelé och saft, men fungerar också bra i bakverk, som garnering eller till köttiga rätter som sås. Bären kan frysas och bevaras länge.",
     "skotsel": "Trivs i sol till halvskugga i fuktig, mullrik jord. Beskär bort gamla, tjocka grenar efter skörd för att stimulera nya skott. Mullra gärna runt busken på hösten.",
-    "lokalt": "Vi har två röda vinbärsbuskar i trädgården, längs västra kanten."
+    "lokalt": "Vi har två röda vinbärsbuskar i trädgården, längs västra kanten. De är av sorten Jonkheer van Tets"
   },
   {
     "id": "rosa-vinbar",
@@ -36,7 +36,7 @@
     "beskrivning": "Rosa vinbär är en variant av det vanliga röda vinbäret men med ljusare, sötsyrligare bär i rosa till gulvit färg. Busken ser ut och sköts precis som röda vinbär men upplevs som mildare i smaken. Bären är läckra att äta direkt och attraktiva som dekoration.",
     "anvandning": "Används på samma sätt som röda vinbär – till sylt, saft, desserter och bakverk. Den milda smaken gör dem populära att äta direkt av busken.",
     "skotsel": "Samma skötsel som röda vinbär. Trivs i sol till halvskugga, vill ha fuktig och mullrik jord.",
-    "lokalt": "Vi har två rosa vinbärsbuskar i trädgården."
+    "lokalt": "Vi har två rosa vinbärsbuskar i trädgården av sorten Pink Champagne."
   },
   {
     "id": "svarta-vinbar",
@@ -49,10 +49,10 @@
     "beskrivning": "Svarta vinbär har en karakteristisk, intensiv doft och smak som särskiljer dem från övriga vinbär. Bären är mörkblåsvarta och sitter i klasar längs grenarna. De mognar i juli–augusti. Busken blir 1–2 meter hög och har aromatiska, flerkluvna löv.",
     "anvandning": "Svarta vinbär innehåller extremt mycket C-vitamin – mer än apelsiner. De används för safttillverkning, sylt och likör (cassis). Råa är de intensiva och något beska, men perfekta i bearbetad form.",
     "skotsel": "Trivs i sol till lätt halvskugga i fuktig, bördig jord. Bär på ettåriga skott – ta bort äldre grenar regelbundet för god skörd.",
-    "lokalt": "Vi har svarta vinbär i den norra och södra delen av trädgården."
+    "lokalt": "Vi har svarta vinbär i den nordvästra och sydvästra delen av trädgården. De är av sorten Narve Viking"
   },
   {
-    "id": "mullbar",
+    "id": "mullbär",
     "namn": "Mullbär",
     "latinskt": "Morus alba / Morus nigra",
     "typ": "träd",
@@ -62,10 +62,10 @@
     "beskrivning": "Mullbär är ett lövträd som kan bli ganska stort men oftast hålls mindre i trädgårdssammanhang. Trädet är känt för sina saftiga, söta bär som liknar förlängda björnbär. Det är relativt ovanligt i Sverige men klarar klimatet i de sydligaste delarna av landet, inklusive Småland, om det planteras på en skyddad, varm plats.",
     "anvandning": "Bären är mycket goda att äta direkt och kan användas till sylt, saft, smoothies och bakverk. De färgar kraftigt – var beredd på lila fingrar! Mullbärsträdet är även känt som föda åt silkesmaskar.",
     "skotsel": "Vill ha en varm, solig och vindskyddad plats. Tål torka när det väl etablerats. Behöver minimal beskärning.",
-    "lokalt": "Vi har ett mullbärsträd i den östra delen av trädgården. Det är ett experiment i gränslandet för vad som är härdig i vår zon."
+    "lokalt": "Vi har ett mullbärsträd i den nordöstra delen av trädgården. Det är ett experiment i gränslandet för vad som är härdig i vår zon. Sorten heter Mulle"
   },
   {
-    "id": "jordartskocka",
+    "id": "jordärtskocka",
     "namn": "Jordärtskocka",
     "latinskt": "Helianthus tuberosus",
     "typ": "ört",
@@ -75,7 +75,7 @@
     "beskrivning": "Jordärtskocka är en nordamerikansk växt i solrosssläktet som bildar ätliga knölar i marken. Plantan kan bli 2–3 meter hög och blommar med små gula solrosliknande blommor i september. Den sprider sig lätt och kan vara svår att begränsa – knölarna som lämnas kvar i marken gror nya plantor.",
     "anvandning": "Knölarna är söta och nötaktiga i smaken. De kan ätas råa (rivna i sallad), kokta, stekta, ugnsrostade eller som soppa. Knölarna innehåller inulin, ett kostfiber som mättar bra. OBS: kan orsaka gaser hos känsliga.",
     "skotsel": "Trivs i de flesta jordar och lägen. Plantera knölar på 10–15 cm djup. Begränsa spridningen med en spade runt planteringen. Skörda knölar efter att blasten vissnat på hösten.",
-    "lokalt": "Jordärtskockor är planterade i den nordöstra delen av trädgården, nära IBC-tankarna."
+    "lokalt": "Jordärtskockor är planterade i den nordöstra delen av trädgården, väster om IBC-tankarna."
   },
   {
     "id": "hybridronn",
@@ -84,11 +84,11 @@
     "typ": "träd",
     "atlig": "delvis",
     "bild": "",
-    "kortbeskrivning": "En härdig och vacker rönn med mjölkvita bär och praktfull höstfärg – viktig för fåglar och insekter.",
-    "beskrivning": "Hybridrönn är en korsning mellan oxel och rönn, ett litet till medelstort träd med karaktäristiska flikade löv. Det blommar med vita blommor i maj och bär bildas i klasar under sommaren. Trädet är mycket härdig och tåler både vind och frost utmärkt.",
-    "anvandning": "Bären är syrliga och beska råa men kan användas till gelé och sylt. De är framför allt värdefulla som fågelmat – talgoxar, sidensvans och trastar älskar dem. Hybridrönnen har också ornamentalt värde med sin höstfärg.",
+    "kortbeskrivning": "En härdig rönn med – viktig för fåglar och insekter.",
+    "beskrivning": "Hybridrönnar är korsningar mellan andra fruktbärande träd och rönn. De utvecklades i Sovjet som experiment för fruktodling långt norrut.",
+    "anvandning": "Bärens karaktär varierar med korsningen och användningen likaså.",
     "skotsel": "Kräver minimal skötsel. Trivs i de flesta jordar och lägen, även i halvskugga. Behöver sällan beskäras.",
-    "lokalt": "Vi har en hybridrönn som utgör ett centralt element i trädgården. Runt den löper en gång av trädgårdsgrus."
+    "lokalt": "Vi har en hybridrönn som utgör ett centralt element i det nordvästra odlingsområdet i trädgården. Vår sort är en korsning mellan rönn och hagtorn."
   },
   {
     "id": "rod-syra",
@@ -99,9 +99,9 @@
     "bild": "",
     "kortbeskrivning": "En dekorativ syra med rödådrade blad och frisk, syrlig smak – lika vacker som god.",
     "beskrivning": "Röd syra, eller blodssyra, är en flerårig ört med karaktäristiska mörkgröna blad med röda åder. Den tillhör släktet syror och har en frisk, lätt syrlig smak som påminner om spenat med citronprägel. Växten är dekorativ under hela säsongen.",
-    "anvandning": "Bladen används som salladsgrönsak, i smoothies eller som tillbehör. Den syrliga smaken kommer av oxalsyra – ät i måttliga mängder, särskilt om du är känslig för njursten. Yngre blad är mildast i smaken.",
+    "anvandning": "Bladen används som salladsgrönsak, i smoothies eller som tillbehör. Den syrliga smaken kommer av oxalsyra – ät i måttliga mängder. Yngre blad är mildast i smaken.",
     "skotsel": "Trivs i de flesta jordar, helst i fuktig och mullrik mark. Sol till halvskugga. Ta bort blomstjälkar för att förlänga bladskörden.",
-    "lokalt": "Röd syra är planterad i mittpartiet av trädgården."
+    "lokalt": "Röd syra är planterad i det nordvästra odlingsområdet."
   },
   {
     "id": "kvitten",
@@ -114,7 +114,7 @@
     "beskrivning": "Kvitten är ett litet fruktträd med vackra rosa blommor och stora, päronformade eller äppelformade gula frukter. Frukterna har en intensiv, blommig doft när de mognar på hösten. De är hårda och beska råa men förvandlas vid kokning till en gyllene, aromatisk delikatess.",
     "anvandning": "Kvitten används nästan uteslutande bearbetat – till gelé, marmelad, mos och pärlsocker-sylt. Frukten är rik på pektin och ger naturligt styvna geléer. I Sydeuropa äts de ibland ugnsbakade med socker och kanel.",
     "skotsel": "Trivs i varm, solig och skyddad plats. Behöver viss vinterskydd i kallare lägen. Beskärning görs på tidig vår för att hålla formen och lätta upp kronan.",
-    "lokalt": "Vår kvitten är planterad i den centrala delen av trädgården och är ett av de mer exotiska inslagen."
+    "lokalt": "Vår kvitten är planterad i den centrala delen av trädgården och är ett av de mer exotiska inslagen. Den är av sorten Aromatnaya"
   },
   {
     "id": "blabärstry",
@@ -127,7 +127,7 @@
     "beskrivning": "Blåbärstry är en av de första bärbuskarna att ge skörd – bären mognar redan i juni, före jordgubbarna. Busken är extremt härdig och klarar temperaturer ner till -40°C. Bären liknar blåbär till utseendet men är avlånga och har en distinkt sötsyrlig smak.",
     "anvandning": "Bären äts färska, används till sylt, saft, smoothies och bakverk. De innehåller höga halter av antioxidanter. För god sättning behövs ofta två sorter som blommar samtidigt.",
     "skotsel": "Trivs i sol till halvskugga. Föredrar svagt sur, fuktig jord. Minimal beskärning – ta bara bort döda grenar.",
-    "lokalt": "Vi har sju blåbärstryplantor längs den södra kanten och inne i trädgården."
+    "lokalt": "Vi har sju blåbärstryplantor. Sex står längs den södra kanten och en finns inne i den nordvästra odlingsdelen i trädgården. Den senare är donerad av Jonas Svensson"
   },
   {
     "id": "buskkorsbar",
@@ -139,7 +139,7 @@
     "kortbeskrivning": "En lågväxt körsbärsbuske med syrliga, röda bär som är utmärkta för saft och sylt.",
     "beskrivning": "Buskkörsbär är ett litet, buskigt körsbärsträd som sällan blir mer än 1–1,5 meter högt. Det blommar i maj med vita blommor och bär produceras i juli–augusti. Bären är klarröda, syrliga och lite beska, men rika på smak och färg.",
     "anvandning": "Bären används till saft, sylt, gelé och likör. Rå kan de vara lite syrliga men de ger utmärkta produkter vid kokning. Frukterna är populär fågelmat om man inte skördar dem i tid.",
-    "skotsel": "Trivs i sol i väldrän jord. Tålig och lättskött. Beskär lätt efter blomning om det behövs.",
+    "skotsel": "Trivs i sol i väldränerad jord. Tålig och lättskött. Beskär lätt efter blomning om det behövs.",
     "lokalt": "Buskkörsbäret är planterat i den norra delen av trädgården."
   },
   {
@@ -166,7 +166,7 @@
     "beskrivning": "Funkia är välkänd som prydnadsväxt för skuggiga lägen, med sina stora, dekorativa blad i grönt, blågrönt eller gulgrönt. Färre vet att växten är ätlig – i Japan är unga skott och blad en delikatess. Plantorna är härdiga och sprider sig långsamt.",
     "anvandning": "Unga skott på våren kan kokas och ätas som sparris. Bladen kan wokkas eller ångkokas. Smaken är mild och lätt. Blomstjälkarna är också ätliga.",
     "skotsel": "Trivs utmärkt i halvskugga till full skugga i fuktig, mullrik jord. Undvik torka. Sniglar är det största problemet – sätt upp snigelskydd vid behov.",
-    "lokalt": "Vi har två funkior i den norra delen av trädgården."
+    "lokalt": "Vi har två funkior i det nordvästra odlingsområdet i trädgården."
   },
   {
     "id": "libsticka",
@@ -179,20 +179,20 @@
     "beskrivning": "Libsticka är en stor, flerårig ört som kan bli över 2 meter hög. Alla delar av växten – blad, stjälkar, rötter och frön – har en intensiv, söt-kryddig doft och smak som påminner starkt om selleri men är kraftigare. En liten mängd räcker långt i matlagningen.",
     "anvandning": "Används som smaktillsats i soppor, grytor, fonder och såser. Bladen kan användas färska eller torkade. Fröna kan användas hela som krydda. En klassisk örtkrydda i det svenska bondköket.",
     "skotsel": "Trivs i sol till halvskugga i djup, fuktig och mullrik jord. Flerårig och väldigt tålig. Dela plantan vart tredje–fjärde år.",
-    "lokalt": "Libsticka är planterad i den norra delen av trädgården."
+    "lokalt": "Libsticka är planterad i det nordvästra odlingsområdet."
   },
   {
     "id": "akerbar",
-    "namn": "Åkerbär",
-    "latinskt": "Rubus arcticus",
+    "namn": "Allåkerbär",
+    "latinskt": "Rubus arcticus × stellarcticus",
     "typ": "marktäckare",
     "atlig": "ja",
     "bild": "",
-    "kortbeskrivning": "En arktisk marktäckare med de mest aromatiska bären i Norden – sällsynt i odling men fantastisk i smak.",
-    "beskrivning": "Åkerbär är ett nordiskt underverk – en liten, krypande marktäckare med intensivt doftande, röda bär. Smaken är unik och komplex, ofta beskriven som en blandning av hallon och ananas. Bären är sällsynta men eftertraktade och odlas mest i Finland och norra Sverige.",
-    "anvandning": "Bären äts färska och används till sylt, saft och likör. Smaken är så intensiv att en liten mängd ger mycket smak. Åkerbärslikör är en finsk delikatess.",
-    "skotsel": "Trivs i halvskugga i fuktig, svagt sur jord. Växer långsamt och kräver tålamod. Behöver inte beskäras.",
-    "lokalt": "Vi odlar åkerbär som marktäckare i mittpartiet av trädgården."
+    "kortbeskrivning": "En odlad hybrid av det vilda åkerbäret – mer produktiv och lättskött, med samma fantastiska, aromatiska smak.",
+    "beskrivning": "Allåkerbär är en finsk hybridkorsning mellan åkerbär och harkransen, framtagen för att göra det vilda åkerbärets unika smak tillgänglig i trädgårdsodling. Plantan är lågväxt och krypande, bildar en tät matta och ger röda, intensivt aromatiska bär. Den är betydligt mer produktiv och anpassningsbar än det vilda åkerbäret.",
+    "anvandning": "Bären äts färska och används till sylt, saft och likör. Smaken är unik och komplex – ofta beskriven som en blandning av hallon och ananas. Åkerbärslikör är en finsk delikatess. En liten mängd bär räcker långt tack vare den intensiva smaken.",
+    "skotsel": "Trivs i halvskugga i fuktig, svagt sur och mullrik jord. Mer tålig och produktiv än vildformen men gillar ändå svalare och fuktiga lägen. Det krävs minst två sorter för att det ska bli bär.",
+    "lokalt": "Vi odlar allåkerbär som marktäckare i nordvästra odlingsområdet. Sorterna vi har är Anna och Beate "
   },
   {
     "id": "smultron",
@@ -203,9 +203,9 @@
     "bild": "",
     "kortbeskrivning": "Det vilda smultronet – med en doftande och intensiv smak som slår alla kultiverade jordgubbar.",
     "beskrivning": "Smultron är vildformen av jordgubben och bildar en fin marktäckande matta med utlöpare. Bären är små men intensivt aromatiska och söta. Växten trivs i halvskugga under trädkronor – precis som i naturen längs skogsbryn och gläntor.",
-    "anvandning": "Bären äts färska direkt från plantan, används i sylt, på grädde eller i bakverk. Trots den lilla storleken är smaken överlägsen kultiverade jordbär. Blad och frukter kan användas till te.",
+    "anvandning": "Bären äts färska direkt från plantan, används i sylt, på grädde eller i bakverk. Trots den lilla storleken är smaken överlägsen kultiverade jordgubbar. Blad och frukter kan användas till te.",
     "skotsel": "Trivs i halvskugga i lätt, fuktig jord. Sprider sig med utlöpare och täcker marken om den trivs. Minimal skötsel behövs.",
-    "lokalt": "Smultron täcker delar av marken i mittpartiet av trädgården."
+    "lokalt": " Vita och röda multron täcker delar av marken i det nordvästra odlingsområdet av trädgården. De är av två sorter. De vita har inget namn, men de röda heter Alexandria "
   },
   {
     "id": "kastanj",
@@ -217,7 +217,7 @@
     "kortbeskrivning": "Det äkta kastanjeträdet – ger rika, stärkelsehaltiga nötter som kan kokas, rostas eller mulas till mjöl.",
     "beskrivning": "Kastanj (äkta kastanj) är ett stort och ståtligt lövträd som kan bli mycket gammalt och stort. I vår trädgård är den ung och liten. Trädet producerar nötter inuti taggiga, gröna hölster som spricker när de mognar på hösten. Nötterna är rika på kolhydrater och har en söt, mjölig smak.",
     "anvandning": "Kastanjer rostas, kokas, purés och mals till mjöl. De är en av få nötter rika på stärkelse och utgjorde tidigare ett viktigt livsmedel i Sydeuropa. Kastanjemjöl är glutenfritt och används i bakning.",
-    "skotsel": "Trivs i väldrän, svagt sur jord i sol. Tål vinterkyla i södra Sverige. Behöver plats att växa – bli stort på sikt. Sällan sjuk.",
+    "skotsel": "Trivs i väldränerad, svagt sur jord i sol. Tål vinterkyla i södra Sverige. Behöver plats att växa – bli stort på sikt. Sällan sjuk.",
     "lokalt": "Vi har ett ungt kastanjeträd i den centrala-norra delen av trädgården."
   },
   {
@@ -244,14 +244,14 @@
     "beskrivning": "Läkemalva är en storväxt, flerårig ört som kan bli över 1,5 meter hög. Den har mjuka, ludna blad och vackra ljusrosa blommor i juli–september. Roten innehåller ett slem som länge använts medicinskt. Ursprungligen kommer den från Mellanöstern och Sydeuropa.",
     "anvandning": "Alla delar – blad, blommor och rot – är ätliga. Bladen kan kokas som grönsak. Roten har slemhinneskyddande egenskaper och använts traditionellt mot hosta och mag-tarmbesvär. Ger dessutom det historiska ursprunget till godiset marshmallow.",
     "skotsel": "Trivs i sol i torr till frisk, väldrän jord. Flerårig men kan behöva skyddas lite under kalla vintrar. Frösår sig gärna.",
-    "lokalt": "Läkemalva är planterad i den västra delen av trädgården."
+    "lokalt": "Läkemalva är planterad i den nordvästra delen av trädgården."
   },
   {
     "id": "bredbladig-syra",
     "namn": "Bredbladig syra",
     "latinskt": "Rumex obtusifolius",
     "typ": "ört",
-    "atlig": "delvis",
+    "atlig": "ja",
     "bild": "",
     "kortbeskrivning": "En robust flerårig ört med stora blad och syrlig smak – används med måtta som bladgrönsak.",
     "beskrivning": "Bredbladig syra är en kraftig ört med stora, breda blad och upprätta blomstjälkar. Den tillhör syrasläktet och har den karakteristiska syrliga smaken som kommer från oxalsyra. Ofta betraktad som ogräs men med kulinariska och medicinska egenskaper.",
@@ -270,7 +270,7 @@
     "beskrivning": "Svartrot är en tvåårig eller flerårig ört som bildar långa, mörkbruna till svarta rötter i marken. Smaken är mild och lätt nötaktig, och betraktas som en delikatess i många europeiska kök. Plantorna bildar attraktiva bladrosetter med smala gröna blad.",
     "anvandning": "Rötterna skördas på hösten (eller andra året) och kokas, ångkokas, stekas eller purés. De kan ersätta sparris och används i soppor, gratänger och som tillbehör. Ska skrapas och läggas i vatten med citron för att inte mörkna.",
     "skotsel": "Trivs i djup, lös jord – sandblandad och mullrik – i sol. Undvik stenig eller hård jord. Vattna regelbundet. Svår att flytta när den väl etablerats.",
-    "lokalt": "Svartrot är planterad i den norra delen av trädgården."
+    "lokalt": "Svartrot är planterad i det noedvästra odlingsområdet. Sorten vi odlar heter Rysk kämpe."
   },
   {
     "id": "loparfetblad",
@@ -283,7 +283,7 @@
     "beskrivning": "Löparfetblad är ett lågväxt fetblad som breder ut sig via utlöpare och bildar en tät matta. Det trivs i sol till halvskugga och klarar torr och mager jord – till och med torr skugga. Det tränger inte undan omkringliggande växter och är ett utmärkt val under buskar och träd. Blommorna lockar pollinerare.",
     "anvandning": "Skotten och blomknopparna är ätliga – krispiga och milda i smaken. Klipp av skott och lägg direkt i sallad. Skördesäsongen är lång och sträcker sig från vår långt in på hösten. Börja med små mängder och se till att plantan inte behandlats med bekämpningsmedel.",
     "skotsel": "Extremt lättskött. Trivs i de flesta jordar, även torr och mager. Förökar sig via utlöpare utan att bli invasiv. Kräver knappt något underhåll.",
-    "lokalt": "Löparfetblad täcker marken i den centrala delen av trädgården."
+    "lokalt": "Löparfetblad odlas för närvarande enbart i den nordvästra odlingsdelen i trädgården."
   },
   {
     "id": "lind",
@@ -296,7 +296,7 @@
     "beskrivning": "Linden är ett av de mest omtyckta träden i det svenska kulturlandskapet. Den blommar i juli med intensivt doftande, gullgula blommor som drar till sig enorma mängder bin och andra pollinerare. Trädet kan bli mycket gammalt och stort.",
     "anvandning": "Lindblommor används till te – ett lugnande, slemhinneskyddande te med mild, blommig smak. Unga blad och blomknoppar är ätliga och kan ätas i sallad eller stekas. Lindhonung är en delikatess.",
     "skotsel": "Trivs i bördig, fuktig jord i sol till halvskugga. Tålig och långlivad. Behöver plats att växa på sikt.",
-    "lokalt": "Vår lind står längs den norra kanten av trädgården."
+    "lokalt": "Vår lind står i det nordvästra odlingsområdet."
   },
   {
     "id": "hassel",
@@ -309,7 +309,7 @@
     "beskrivning": "Hassel är en inhemsk buske som kan bli ganska stor. Den blommar tidigt på våren med hängekattar (hanblommor) och små röda honblommor. Nötterna mognar i september och är en välkänd, omtyckt råvara. Hassel utgör också ett viktigt habitat för många insekter och fåglar.",
     "anvandning": "Hasselnötterna äts råa, rostas, mals till smör eller används i choklad och bakverk. Nötterna är rika på hälsosamma fetter, E-vitamin och mineraler.",
     "skotsel": "Trivs i de flesta jordar och lägen. Anpassningsbar och lättskött. Kan skäras tillbaka hårt om den blir för stor. Ger bäst skörd i sol.",
-    "lokalt": "Vi har tre hasselbuskar längs den norra kanten av trädgården."
+    "lokalt": "Vi har tre förädlade hasselbuskar av olika sort längs den norra kanten av trädgården. Från väster till öster: Tidig lång zellernöt, Tonda Gentile Delle Langhe, Katalonski"
   },
   {
     "id": "plommon",
@@ -322,7 +322,7 @@
     "beskrivning": "Plommonträdet är ett litet till medelstort fruktträd som blommar vackert i vitt tidigt på våren. Frukterna mognar i augusti–september och varierar i färg, storlek och smak beroende på sort. Det trivs i varmare delar av Sverige och ger ofta riklig skörd.",
     "anvandning": "Plommon äts färska, kokas till sylt och saft, torkas till katrinplommon eller används i bakverk och desserter. Kärnan innehåller amygdalin och ska inte ätas.",
     "skotsel": "Vill ha sol och väldrän, bördig jord. Beskär på sommaren (ej höst/vinter) för att undvika sjukdomar. Tunnna ut frukterna vid riklig sättning.",
-    "lokalt": "Plommonträdet är planterat i den södra delen av trädgården."
+    "lokalt": "Plommonträdet är planterat i den södra delen av trädgården och är av sorten Komet"
   },
   {
     "id": "koreansk-silverbuske",
@@ -348,7 +348,7 @@
     "beskrivning": "Fläder är en snabbväxande inhemsk buske med karaktäristiska, sammansatta blad och stora vita blomflockar i juni. Blommorna doftar intensivt och är älskade av pollinerare. Bären är mörkvioletta och mognar i september. Alla råa delar av växten förutom blombladen innehåller gifter och ska inte ätas okokta.",
     "anvandning": "Blommorna används för att göra flädersaft, fläderblomste och limonad. Bären (väl kokade) används till saft, gelé och vin. OBS: ät aldrig råa bär eller blad – de kan orsaka illamående.",
     "skotsel": "Trivs i nästan alla jordar och lägen. Snabbväxande – kan beskäras hårt varje år. Sprider sig gärna med fågelspridda frön.",
-    "lokalt": "Vår fläderbuske är planterad i den södra-centrala delen av trädgården."
+    "lokalt": "Vår fläderbuske är en flikbladig sort, planterad i den södra-centrala delen av trädgården. Sorten heter Flikbladig grön"
   },
   {
     "id": "bjork",
@@ -361,7 +361,7 @@
     "beskrivning": "Björken är ett av Sveriges vanligaste och mest älskade träd, känt för sin vita stam och dansande löv. I en skogsträdgård fyller björken en viktig roll som pionjärträd som skapar mikroklimat och lövmull. Björken blommar tidigt med hängekattar i april.",
     "anvandning": "Björksav (tappad på tidigt vår) är söt och förfriskande att dricka eller fermentera. Unga löv och kattar är ätliga och kan användas i sallader och te. Björkblad används i traditionell folkmedicin.",
     "skotsel": "Trivs i nästan alla jordar. Kräver lite skötsel. Observera att björkar tar mycket vatten – plantera med hänsyn till omkringliggande växter.",
-    "lokalt": "Vi har två björkar i trädgården som bidrar med karaktär och mikrohabitat."
+    "lokalt": "Vi har två björkar i trädgården som i hamlat skick är tänkta att bidra med karaktär, biomassa och mikrohabitat, så kallade amträd."
   },
   {
     "id": "aronia",
@@ -371,10 +371,10 @@
     "atlig": "ja",
     "bild": "",
     "kortbeskrivning": "En tålig superfrukt-buske med mörka, syrliga bär extremt rika på antioxidanter.",
-    "beskrivning": "Aronia, eller svartaronia, är en nordamerikansk buske som trives utmärkt i Sverige. Den blommar i maj med vita blomflockar och bären mognar i september. Busken är dekorativ under hela säsongen med vacker höstfärgning i rött. Bären är mörkvioletta till svarta.",
+    "beskrivning": "Aronia är en nordamerikansk buske som trives utmärkt i Sverige. Den blommar i maj med vita blomflockar och bären mognar i september. Busken är dekorativ under hela säsongen med vacker höstfärgning i rött. Bären är mörkvioletta till svarta.",
     "anvandning": "Bären är syrliga och snudd på beska råa, men rika på antioxidanter – bland de högsta av alla bär. Används till saft, sylt, vin och torkas till torkade bär. Blandas gärna med sötare safter.",
     "skotsel": "Mycket lättskött och tålig. Trivs i de flesta jordar och lägen, även halvskugga. Behöver knappt beskäras.",
-    "lokalt": "Aronian är planterad i den södra-östra delen av trädgården."
+    "lokalt": "Aronian är planterad i den sydöstra delen av trädgården."
   },
   {
     "id": "strutbraken",
@@ -382,12 +382,12 @@
     "latinskt": "Matteuccia struthiopteris",
     "typ": "ört",
     "atlig": "ja",
-    "bild": "",
-    "kortbeskrivning": "En elegant inhemsk bräken med vasfulla frondar – unga skott är en delikatess i japansk och nordisk matlagning.",
-    "beskrivning": "Strutbräken är en av Nordens vackraste bräkenarter, med upprätta frondar som liknar en struts fjäderprytt stjärt. Den trivs i fuktig, halvskuggig mark och ger ett rofyllt, skogsliknande uttryck. Unga skott (fiddleheads) är ätliga på våren och betraktas som delikatess.",
-    "anvandning": "De unga spirande skotten (sk. 'fiddleheads') skördas på våren när de fortfarande är rullade. De kokas eller ångkokas och äts som grönsak – milda med en nötaktig smak. Populärt i japansk, koreansk och nordamerikansk mat.",
+    "bild": "/skogstradgard/strutbraken.jpg",
+    "kortbeskrivning": "En elegant inhemsk bräken med vasliknande frondar – unga skott är en delikatess i japansk och nordisk matlagning.",
+    "beskrivning": "Strutbräken är en av Nordens vackraste bräkenarter, med upprätta frondar som liknar en struts fjäderprydda stjärt. Den trivs i fuktig, halvskuggig mark och ger ett rofyllt, skogsliknande intryck. Unga skott (fiddleheads) är ätliga på våren och betraktas som delikatess.",
+    "anvandning": "De unga spirande skotten (sk. 'fiddleheads') skördas på våren när de fortfarande är ihoprullade. De kokas eller ångkokas och äts som grönsak – milda med en nötaktig smak. Populärt i det japanska, koreanska och nordamerikanska köket.",
     "skotsel": "Trivs i halvskugga i fuktig, mullrik jord. Sprider sig med utlöpare och bildar kolonier. Kan delas och planteras om vid spridning.",
-    "lokalt": "Vi har fem strutbräknar längs den norra kanten av trädgården."
+    "lokalt": "Vi har fem strutbräknar längs den norra kanten av trädgården. De har donerats av Göran Lennartsson"
   },
   {
     "id": "vallort",
@@ -400,7 +400,7 @@
     "beskrivning": "Vallört är en robust, flerårig ört med stora, breda blad och klockformade blommor i lila, rosa eller vitt. Rötterna kan gå djupt i marken och hämta upp mineraler som andra växter inte når. Den har tidigare använts i folkmedicin men är i modern trädgårdsodling mest känd som gödningsväxt.",
     "anvandning": "Vallört används som 'dynamic accumulator' – bladen läggs som mulch eller nedbryts i vatten till en kraftig, kväve- och kaliumrik gödsel. Bladen kan i liten mängd tillsättas kompost. OBS: inre bruk rekommenderas ej – växten innehåller skadliga pyrrolizidinalkaloider.",
     "skotsel": "Vanlig vallört är extremt tålig och spridningsvillig – svår att bli av med när den väl etablerats. Den sort som odlas här, 'Bocking 14', är dock steril och förökas endast genom rotsticklingar. Trivs i de flesta jordar.",
-    "lokalt": "Vallört växer som avgränsning längs mittlinjen i trädgårdens centrala parti, från syd till nord."
+    "lokalt": "Vallört växer som avgränsning för det nordvästra och sydvästra hörnet av trädgården"
   },
   {
     "id": "apple",
@@ -410,10 +410,10 @@
     "atlig": "ja",
     "bild": "",
     "kortbeskrivning": "Det klassiska fruktträdet – en omistlig del av den svenska trädgården med otaliga sorter och användningsområden.",
-    "beskrivning": "Äppleträdet är ett av de viktigaste fruktträden i det svenska klimatet och finns i hundratals sorter med olika smak, lagringsegenskaper och mogningstider. Trädet blommar vackert i maj och frukterna mognar från juli till oktober beroende på sort.",
+    "beskrivning": "Äppelträdet är ett av de viktigaste fruktträden i det svenska klimatet och finns i hundratals sorter med olika smak, lagringsegenskaper och mogningstider. Trädet blommar vackert i maj och frukterna mognar från juli till oktober beroende på sort.",
     "anvandning": "Äpplen äts färska, pressas till must och cider, kokas till sylt och mos, torkas och bakas med. De flesta sorter kan lagras under lång tid i källare eller kylrum.",
-    "skotsel": "Vill ha sol, väldrän och bördig jord. Beskär regelbundet på tidiga våren för att hålla kronan öppen. Plocka frukt innan den faller för bäst kvalitet.",
-    "lokalt": "Vi har ett äppleträd i mittpartiet av trädgården. Det är, som sig bör i en småländsk trädgår, av sorten Astrakan"
+    "skotsel": "Vill ha sol, väldränerad och bördig jord. Beskär regelbundet under JAS-månaderna för att hålla kronan öppen. Plocka frukt innan den faller för bäst kvalitet.",
+    "lokalt": "Vi har ett äppelträd i mittpartiet av trädgården. Det är, som sig bör i Småland, av sorten Astrakan"
   },
   {
     "id": "ronn",
@@ -439,7 +439,7 @@
     "beskrivning": "Pelarplommon är en upprätt, smal sort av plommon som tar mycket liten markyta i anspråk. Trots sin kompakta form ger den god skörd av saftiga plommon. Passar utmärkt i skogsträdgårdar där man vill ha frukter utan att ta upp för mycket ljus och plats.",
     "anvandning": "Används på samma sätt som vanligt plommon – färska, sylt, saft och bakverk.",
     "skotsel": "Samma skötsel som vanligt plommon. Trivs i sol och väldrän jord. Minimal beskärning krävs tack vare den naturligt smala formen.",
-    "lokalt": "Pelarplommonet är planterat i den södra delen av trädgården."
+    "lokalt": "Pelarplommonet är planterat i den södra delen av trädgården och är av sorten Ruby"
   },
   {
     "id": "bjornbar",
@@ -448,11 +448,11 @@
     "typ": "buske",
     "atlig": "ja",
     "bild": "",
-    "kortbeskrivning": "En robust, tornig buske med stora, sötsyrliga bär – ger riklig skörd och skydd åt fåglar.",
+    "kortbeskrivning": "En robust, buske med stora, sötsyrliga bär – ger riklig skörd och skydd åt fåglar.",
     "beskrivning": "Björnbär är en kraftig, tornbewäpnad klätterbuske som bär stora, blankssvarta bär i juli–september. Bären är söta med en lätt syra och intensiv smak. Busken kan bli stor och kraftig, men kan kontrolleras med beskärning.",
     "anvandning": "Björnbär äts färska och används till sylt, saft, smoothies, bakverk och dessert. De kan frysas och bevaras länge. Bären är rika på C-vitamin och antioxidanter.",
-    "skotsel": "Trivs i sol till halvskugga i de flesta jordar. Skär bort gamla, bärande skott efter skörd. Hantera med handskar – törnarna är skarpa.",
-    "lokalt": "Vi har tre björnbärsbuskar längs den östra kanten av trädgården."
+    "skotsel": "Trivs i sol till halvskugga i de flesta jordar. Skär bort gamla, bärande skott efter skörd.",
+    "lokalt": "Vi har tre björnbärsbuskar längs den östra kanten av trädgården. De är alla av den taggfria sorten Loch Tay"
   },
   {
     "id": "hallon",
@@ -465,7 +465,7 @@
     "beskrivning": "Hallon är en välkänd och omtyckt bärbuske som ger rikliga skördar av aromatiska röda bär. Busken bildar skott som bär frukt på tvåårsskotten och sedan dör. Regelbunden beskärning håller beståndet produktivt.",
     "anvandning": "Hallon äts färska, fryses, kokas till sylt och saft, eller används i bakverk och desserter. Hallonsaft och hallonjam är klassiker. Bären är rika på C-vitamin och antioxidanter.",
     "skotsel": "Trivs i sol till halvskugga i mullrik, fuktig jord. Skär bort gamla tvåårsskott efter skörd. Bind upp skotten mot ett stöd för lättare hantering.",
-    "lokalt": "Vi har tre hallonplantor längs den östra kanten av trädgården."
+    "lokalt": "Vi har fem hallonplantor av olika sort längs den östra kanten av trädgården."
   },
   {
     "id": "humle",
@@ -478,6 +478,19 @@
     "beskrivning": "Humle är en flerårig klätterväxt som kan skjuta skott upp till 6–8 meter per säsong. Den är tvåkönad – det är honplantorna som bildar de karaktäristiska kottarna. Humle är inhemskt i Sverige och trivs längs skogsbryn och i halvskuggiga lägen. På hösten vissnar blasten ned till marken, för att skjuta upp igen på våren.",
     "anvandning": "Kottarna används för att smaksätta och konservera öl – en tradition som går tillbaka till medeltiden. Unga skott på våren är ätliga och kan tillagas som sparris. Kottarna har också lugnande egenskaper och används i örttillverkning. Torkade kottar används i sovkuddar mot oro och sömnproblem.",
     "skotsel": "Trivs i sol till halvskugga i mullrik, fuktig jord. Behöver stöd att klättra på – störar, staket eller trådar. Skär ned blasten på hösten. Kan sprida sig kraftigt via jordstammar.",
-    "lokalt": "Vi har två rader humle planterade ca 3 meter öster om trädgårdens östgräns, längs störar eller trådar."
+    "lokalt": "Vi har två rader humle planterade ca 3 meter öster om trädgårdens östgräns, längs störar eller trådar. Humlen är av sorten Klev, en av SLU förädlad variant av en gammal svensk sort. Beteckningen är SWE-51. Så här skriver SLU 'Klev är en del av POM-insamlingen och blev återfunnen med hjälp av en karta upprättad över Klev från 1642. Då bestod Klev av sju hemman som sammanlagt hade 2020 humlestörar. ’Klev’ från Uppland är en kulturarvshumle med hög oljehalt och hög alfasyra. Har medelstora ovala kottar med tydlig humledoft. Klev blommar i månadsskiftet juni till juli. Mognar i början av augusti.' "
+  },
+  {
+    "id": "smulgubbe",
+    "namn": "Smulgubbe",
+    "latinskt": "Fragaria × vescana",
+    "typ": "marktäckare",
+    "atlig": "ja",
+    "bild": "",
+    "kortbeskrivning": "En svensk hybridbär med jordgubbens storlek och smultronets smak – framtagen av SLU på Balsgård.",
+    "beskrivning": "Smulgubbe är en hybridkorsning mellan smultron (Fragaria vesca) och odlingsjordgubbe (Fragaria × ananassa), framtagen av forskare vid SLU:s forskningsstation Balsgård. Korsningen krävde att smultronets kromosomuppsättning fördubblades med kolchicin för att övervinna den genetiska barriären. Resultatet är en bärväxt med bär i jordgubbsstorlek men med smultronets aromatiska smak.",
+    "anvandning": "Bären äts färska och har smultronsmaken kombinerat med jordgubbens storlek. Tidiga sorter visade sig svåra att transportera och sälja kommersiellt, men fungerar utmärkt i trädgårdsodling. Svenska sorter inkluderar Annelie, Sara, Florika, Spadeka och Rebecka.",
+    "skotsel": "Sköts som vanliga jordgubbar. Trivs i sol till halvskugga i fuktig, mullrik jord. Sprider sig med utlöpare.",
+    "lokalt": "Vi odlar smulgubbe intill smultronen i mittpartiet av trädgården."
   }
 ]

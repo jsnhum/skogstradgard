@@ -50,14 +50,14 @@ export default function ArtsSida() {
         borderBottom: "1px solid rgba(90,122,58,0.2)",
         padding: "1.5rem 1.5rem 1.2rem",
       }}>
-        <Link to="/" style={{
-          fontSize: "0.85rem",
-          color: "#5a7a3a",
-          textDecoration: "none",
-          letterSpacing: "0.05em",
-        }}>
-          ← Tillbaka till kartan
-        </Link>
+        <div style={{ display: "flex", gap: "1.2rem" }}>
+          <Link to="/karta" style={{ fontSize: "0.85rem", color: "#5a7a3a", textDecoration: "none", letterSpacing: "0.05em" }}>
+            ← Kartan
+          </Link>
+          <Link to="/lista" style={{ fontSize: "0.85rem", color: "#5a7a3a", textDecoration: "none", letterSpacing: "0.05em" }}>
+            ← Växtlistan
+          </Link>
+        </div>
 
         <div style={{ marginTop: "0.8rem", display: "flex", gap: "0.5rem", alignItems: "center", flexWrap: "wrap" }}>
           <span style={{
