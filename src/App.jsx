@@ -219,12 +219,13 @@ export default function App() {
           )}
 
           <g transform="translate(88, 210)">
-            <circle cx="0" cy="0" r="5" fill="#f4efe6" stroke="#c8be9a" strokeWidth="0.4"/>
-            <text x="0" y="-1.5" textAnchor="middle" fontSize="3.5" fill="#4a5a3a" fontWeight="600">N</text>
-            <line x1="0" y1="-4" x2="0" y2="-2" stroke="#4a5a3a" strokeWidth="0.6" strokeLinecap="round"/>
-            <text x="0" y="4"    textAnchor="middle" fontSize="2.8" fill="#8a7a5a">S</text>
-            <text x="-4" y="1.2" textAnchor="middle" fontSize="2.8" fill="#8a7a5a">V</text>
-            <text x="4"  y="1.2" textAnchor="middle" fontSize="2.8" fill="#8a7a5a">O</text>
+            <circle cx="0" cy="0" r="6" fill="#f4efe6" stroke="#c8be9a" strokeWidth="0.4"/>
+            {/* Nordpil (mörk) */}
+            <polygon points="0,-5 1.2,0 0,-1 -1.2,0" fill="#2c3a1e"/>
+            {/* Sydpil (ljus) */}
+            <polygon points="0,5 1.2,0 0,1 -1.2,0" fill="#c8be9a"/>
+            {/* N-text */}
+            <text x="0" y="-6.5" textAnchor="middle" fontSize="3" fill="#2c3a1e" fontWeight="600">N</text>
           </g>
 
           <g transform="translate(50, 217)">
