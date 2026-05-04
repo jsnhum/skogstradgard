@@ -504,5 +504,18 @@
     "anvandning": "Den rivna roten används som smaksättare till rökt och kokt fisk, kallt kött, sill och rotmos. Pepparrotssås är en klassiker till oxköttsrätter. Roten kan också torkas och malas till pulver. Unga blad kan ätas som grönsak.",
     "skotsel": "Mycket lättodlad och härdig. Trivs i djup, fuktig jord i sol till halvskugga. Sprider sig kraftigt med sidorötter – behöver begränsas om man inte vill att den tar över. Skördas på hösten.",
     "lokalt": "Vi odlar fyra pepparrotsplantor längs västra sidan av IBC-tankarna."
+  },
+  {
+    "id": "vindruva",
+    "namn": "Vindruva",
+    "sort": "Solaris",
+    "latinskt": "Vitis vinifera (hybrid)",
+    "typ": "klätterväxt",
+    "atlig": "ja",
+    "kortbeskrivning": "En klättrande fruktväxt med tusenårig odlingstradition – druvorna äts färska, torkas eller pressas till juice och vin.",
+    "beskrivning": "Vindruvan är en av världens äldsta kulturväxter och har odlats i över 8 000 år. Den tillhör släktet Vitis och är ursprungligen från Kaukasus och Mellanöstern. Som klätterväxt använder den sig av klängen för att klättra längs spaljéer, staket och pergolor. Det finns tusentals sorter, anpassade för allt från varma medelhavsklimat till svalare nordliga trakter.",
+    "anvandning": "Druvorna äts färska, torkas till russin eller pressas till juice och vin. Bladen används i matlagning, bland annat för att rulla dolmar. Vindruvsodling för vin har lång tradition i Europa och odlas numera även i Sverige, framför allt i Skåne och på Öland.",
+    "skotsel": "Klättrar på spaljé, pergola eller staket. Behöver beskärning varje år – vanligen vinterbeskärning där man sparar föregående års skott. Trivs i sol och skyddad plats med god dränering. Gynnas av varm vägg eller sydläge i nordligare klimat.",
+    "lokalt": "Vi odlar sorten Solaris – en svampresistent PIWI-hybrid framtagen 1975 i Freiburg, anpassad för nordiskt klimat. Den mognar tidigt (ca 90 dagar) och klarar zon 3 på skyddad plats. Druvorna har fruktiga toner av citrus, krusbär och fläder och lämpar sig för vin, juice eller direkt ätning. Vi har två plantor längs norra kanten av trädgården."
   }
 ]

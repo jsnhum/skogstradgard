@@ -62,6 +62,9 @@
   { "id": "ronn-1", "namn": "Rönn", "x": 113, "y": 162, "typ": "träd", "lank": "/arter/ronn" },
   { "id": "pelarplommon-1", "namn": "Pelarplommon", "x": 133, "y": 194, "typ": "träd", "lank": "/arter/pelarplommon" },
 
+  { "id": "vindruva-1", "namn": "Vindruva", "x": 60,  "y": 99, "typ": "klätterväxt", "lank": "/arter/vindruva" },
+  { "id": "vindruva-2", "namn": "Vindruva", "x": 126, "y": 99, "typ": "klätterväxt", "lank": "/arter/vindruva" },
+
   { "id": "pepparrot-1", "namn": "Pepparrot", "x": 136, "y": 122, "typ": "ört", "lank": "/arter/pepparrot" },
   { "id": "pepparrot-2", "namn": "Pepparrot", "x": 136, "y": 126, "typ": "ört", "lank": "/arter/pepparrot" },
   { "id": "pepparrot-3", "namn": "Pepparrot", "x": 136, "y": 129, "typ": "ört", "lank": "/arter/pepparrot" },
