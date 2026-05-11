@@ -517,5 +517,101 @@
     "anvandning": "Druvorna äts färska, torkas till russin eller pressas till juice och vin. Bladen används i matlagning, bland annat för att rulla dolmar. Vindruvsodling för vin har lång tradition i Europa och odlas numera även i Sverige, framför allt i Skåne och på Öland.",
     "skotsel": "Klättrar på spaljé, pergola eller staket. Behöver beskärning varje år – vanligen vinterbeskärning där man sparar föregående års skott. Trivs i sol och skyddad plats med god dränering. Gynnas av varm vägg eller sydläge i nordligare klimat.",
     "lokalt": "Vi odlar sorten Solaris – en svampresistent PIWI-hybrid framtagen 1975 i Freiburg, anpassad för nordiskt klimat. Den mognar tidigt (ca 90 dagar) och klarar zon 3 på skyddad plats. Druvorna har fruktiga toner av citrus, krusbär och fläder och lämpar sig för vin, juice eller direkt ätning. Vi har två plantor längs norra kanten av trädgården."
+  },
+  {
+    "id": "cikoria",
+    "namn": "Cikoria",
+    "latinskt": "Cichorium intybus",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En flerårig ört med vackra blå blommor – känd för sina rötter som rostas till kaffesurrogat och sina bittra blad som används i matlagning.",
+    "beskrivning": "Cikoria är en flerårig ört som är vilt förekommande i hela Europa. Den kan bli upp till en meter hög och blommar med lysande himmelsblå blommor från juli till september. Växten bildar en kraftig pålrot och har använts som kulturväxt i tusentals år, både som grönsak och medicinalört.",
+    "anvandning": "Unga blad används i sallad och matlagning – de är bittert aromatiska och stimulerar matsmältningen. Roten rostas och mals till ett koffeinfritt kaffesurrogat, känt som cikoriakaffe, som var vanligt under krigsår när kaffe var bristvara. Chicorée och endiv är nära besläktade odlade former.",
+    "skotsel": "Mycket lättodlad och tålig. Trivs i de flesta jordar, gärna i sol. Självsprider sig lätt. Klipp ned efter blomning för att hålla den samlad.",
+    "lokalt": "Vi har en cikoriaplanta i den södra delen av trädgården."
+  },
+  {
+    "id": "johannesort",
+    "namn": "Johannesört",
+    "latinskt": "Hypericum perforatum",
+    "typ": "ört",
+    "atlig": "delvis",
+    "kortbeskrivning": "En välkänd medicinört med gula blommor, använd sedan antiken mot nedstämdhet och oro.",
+    "beskrivning": "Johannesört är en flerårig ört som växer vilt i stora delar av Europa och Asien. Den känns igen på sina ovala blad med genomskinliga oljekörtlar – håller man bladet mot ljuset syns de som små prickar – och på de klarröda fläckarna längs blommans kanter, som innehåller hypericin. Den blommar i juni–juli, kring Johannes döparens dag, därav namnet.",
+    "anvandning": "Örten har använts medicinskt sedan antiken. Extrakt av blomknoppar och blommor används idag mot mild till måttlig depression och ångest, och är väldokumenterat i kliniska studier. Används också som olja mot sår och solbränna. Observera att johannesört kan påverka effekten av vissa läkemedel – rådfråga läkare vid medicinering.",
+    "skotsel": "Trivs i torr till frisk, solbelyst mark. Tålig och lättodlad. Klipp ned efter blomning. Kan sprida sig självständigt.",
+    "lokalt": "Vi odlar johannesört i den södra delen av trädgården."
+  },
+  {
+    "id": "citronmeliss",
+    "namn": "Citronmeliss",
+    "latinskt": "Melissa officinalis",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En doftande flerårig ört med tydlig citronsmak – används i te, matlagning och som lugnande medicinalört.",
+    "beskrivning": "Citronmeliss är en flerårig ört ur myntafamiljen, ursprungligen från södra Europa och västra Asien. Den har hjärtformade, skrynkliga blad med en frisk citronarom och blommar med små vita blommor som är omtyckta av bin och humlor. Växten bildar täta buskar och kan bli 40–80 cm hög.",
+    "anvandning": "Färska eller torkade blad används till te, lemonad, sallader och som smaksättning i fiskerätter och desserter. Citronmeliss har också en lång historia som lugnande medicinalört – den används mot stress, sömnsvårigheter och magbesvär. Ingår i traditionella läkemedel som Melissengeist.",
+    "skotsel": "Trivs i sol till halvskugga i fuktig, väldränerad jord. Klipp ned efter blomning för att få frisk bladtillväxt. Härdig till zon 4–5. Sprider sig lätt med frön.",
+    "lokalt": "Vi odlar citronmeliss i den södra delen av trädgården."
+  },
+  {
+    "id": "oregano",
+    "namn": "Oregano",
+    "latinskt": "Origanum vulgare",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "Ett oumbärligt kökskrydda med intensiv, varm arom – grundstommen i medelhavskökets smakpalett.",
+    "beskrivning": "Oregano är en flerårig ört ur myntafamiljen med ursprung i Medelhavsområdet. Den bildar täta kuddar med små ovala blad och blommar med rosa till lila blommor som är mycket attraktiva för bin och fjärilar. Vild oregano (rigani) från Grekland och Turkiet har starkare smak än odlade sorter.",
+    "anvandning": "Används torkad eller färsk i pizza, pastasåser, grillrätter, olivoljedressingar och marinader. Torkad oregano är starkare i smaken än färsk. Har också antimikrobiella egenskaper och används i folkmedicin mot luftvägsbesvär.",
+    "skotsel": "Trivs i torr, väldränerad och solexponerad jord. Mycket tålig och torktålig. Klipp ned på hösten. Härdig till zon 4–5.",
+    "lokalt": "Vi odlar oregano i den södra delen av trädgården."
+  },
+  {
+    "id": "karleksort",
+    "namn": "Kärleksört",
+    "latinskt": "Hylotelephium telephium",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En saftig flerårig ört med rosa blomklasar – både ätlig och en viktig nektarkälla för fjärilar sent på säsongen.",
+    "beskrivning": "Kärleksört är en flerårig ört ur fetbladsväxternas familj, infödd i stora delar av Europa och Asien. Den har tjocka, saftiga blad och blommar med täta rosa till röda blomklasar från augusti till oktober. Fröställningarna är dekorativa även på vintern. Kärleksört är en av de viktigaste senblommande nektarväxterna för fjärilar och bin.",
+    "anvandning": "Unga skott och blad kan ätas råa i sallad eller tillagas som grönsak. Smaken är mild och något syrlig. Roten har använts i folkmedicin. Numera odlas den mest som prydnadsväxt och för pollinatörer.",
+    "skotsel": "Trivs i torr till frisk, väldränerad jord i sol. Mycket tålig och torktålig. Klipp ned på våren. Härdig till zon 5–6.",
+    "lokalt": "Vi odlar kärleksört i den södra delen av trädgården."
+  },
+  {
+    "id": "pimpernell",
+    "namn": "Pimpernell",
+    "latinskt": "Sanguisorba minor",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En gracil ört med elegant fjäderblad och gurkarom – klassisk salladsgrönt i det engelska köket.",
+    "beskrivning": "Pimpernell är en flerårig ört ur rosenfamiljen med ursprung i Europa och västra Asien. Den bildar eleganta rosetter med parflikiga blad och blommar med rödbruna bollformade blomhuvuden. Bladen har en frisk smak som påminner om gurka. I England kallas den salad burnet och har odlats i köksträdgårdar sedan medeltiden.",
+    "anvandning": "Unga blad används färska i sallader, dressingar, kallt vatten och som garnering. Smaken är mild och gurkliknande. Passar bra med ostron och i sommardrinkar. Torkar och frysas dåligt – bäst att använda färsk.",
+    "skotsel": "Trivs i torr till frisk jord i sol till halvskugga. Tålig mot torka. Klipp regelbundet för att få nya, friska blad. Härdig till zon 4–5. Kan självså sig.",
+    "lokalt": "Vi odlar pimpernell i mittpartiet av trädgården."
+  },
+  {
+    "id": "daglilja",
+    "namn": "Daglilja",
+    "latinskt": "Hemerocallis",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En frodig prydnadsväxt med stora, ätliga blommor – varje blomma varar bara en dag men plantans blomning pågår i veckor.",
+    "beskrivning": "Daglilja tillhör släktet Hemerocallis och är ursprungligen från Ostasien. Trots sitt namn är den inte en äkta lilja utan tillhör en egen familj. Växten bildar täta bladrosetter med långa, bågböjda blad och skickar upp blomstänglar med knoppar som öppnas en i taget. Det finns tusentals odlade sorter i allt från gult och orange till rött och lila.",
+    "anvandning": "Blomknoppar och öppnade blommor är ätliga och används i asiatisk matlagning – stekta, ångkokade eller torkade (gyllene liljeknoppar i kinesisk mat). Unga skott kan tillagas som grönsak. Roten används i kinesisk medicin. Obs: förväxla inte med äkta liljor (Lilium) vars pollen kan vara giftiga.",
+    "skotsel": "Trivs i de flesta jordar i sol till halvskugga. Tålig och lättskött. Dela tuvan vart 3–5 år för bästa blomning. Härdig till zon 4–5.",
+    "lokalt": "Vi odlar daglilja i mittpartiet av trädgården."
+  },
+  {
+    "id": "rankspenat",
+    "namn": "Rankspenat",
+    "latinskt": "Hablitzia tamnoides",
+    "typ": "klätterväxt",
+    "atlig": "ja",
+    "kortbeskrivning": "En flerårig klättrande spenat från Kaukasus – en av de mest uppskattade perenna grönsaksväxterna i nordisk skogsträdgårdsodling.",
+    "beskrivning": "Rankspenat är en flerårig klätterväxt från bergsregionerna i Kaukasus och Iran. Den är en av de få perenna bladgrönsaker som trivs i nordiskt klimat och har blivit alltmer populär i skogsträdgårdar och permakulturodlingar. Plantan dör ned på vintern och skjuter upp tidigt på våren. Den kan klättra 2–3 meter och lever i decennier på samma plats.",
+    "anvandning": "Unga blad och skott skördas från tidig vår till försommar och används precis som spenat – råa i sallad eller tillagade. Smaken är mild och inte bitter. En av fördelarna är att den producerar tidigt på säsongen när lite annat grönt finns tillgängligt.",
+    "skotsel": "Trivs i halvskugga till skugga i humusrik, fuktig jord – idealisk under träd och buskar. Behöver något att klättra på. Tålig och lättskött när den väl etablerats. Härdig till zon 5–6.",
+    "lokalt": "Vi har fem rankspenaplantor längs norra kanten av trädgården."
   }
 ]
