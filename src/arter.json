@@ -613,5 +613,17 @@
     "anvandning": "Unga blad och skott skördas från tidig vår till försommar och används precis som spenat – råa i sallad eller tillagade. Smaken är mild och inte bitter. En av fördelarna är att den producerar tidigt på säsongen när lite annat grönt finns tillgängligt.",
     "skotsel": "Trivs i halvskugga till skugga i humusrik, fuktig jord – idealisk under träd och buskar. Behöver något att klättra på. Tålig och lättskött när den väl etablerats. Härdig till zon 5–6.",
     "lokalt": "Vi har fem rankspenaplantor längs norra kanten av trädgården."
+  },
+  {
+    "id": "graslok",
+    "namn": "Gräslök",
+    "latinskt": "Allium schoenoprasum",
+    "typ": "ört",
+    "atlig": "ja",
+    "kortbeskrivning": "En av våra vanligaste köksörter med mild lökarom – fin i matlagning och som prydnad med sina rosa blombollar.",
+    "beskrivning": "Gräslök är en flerårig ört ur löksläktet med ursprung i Europa och Asien. Den bildar täta tuvor av smala, ihåliga blad och blommar med runda rosa till lila blomhuvuden i juni–juli. Blommorna är rika på nektar och omtyckta av bin. Gräslök är en av de äldsta odlade kryddörterna och finns nämnd i kinesiska skrifter från 3000 f.Kr.",
+    "anvandning": "Bladen klipps och används färska som krydda till potatis, ägg, sallader, soppor och smörgås. Smaken är mild och frisk med tydlig lökarom. Blommorna är ätliga och dekorativa i sallader. Gräslök passar inte att torka – smaken försvinner – men kan frysas.",
+    "skotsel": "Trivs i de flesta jordar i sol till halvskugga. Klipp regelbundet så hålls plantan frisk och produktiv. Dela tuvan vart 3–4 år. Härdig till zon 6–7.",
+    "lokalt": "Vi odlar gräslök i den västra delen av trädgården."
   }
 ]
