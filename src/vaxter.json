@@ -8,7 +8,7 @@
   { "id": "rosa-vinbar-2", "namn": "Rosa vinbär", "x": 109, "y": 200, "typ": "buske", "lank": "/arter/rosa-vinbar" },
   { "id": "svarta-vinbär-1", "namn": "Svarta vinbär", "x": 102, "y": 189, "typ": "buske", "lank": "/arter/svarta-vinbar" },
   { "id": "mullbär", "namn": "Mullbär", "x": 160, "y": 136, "typ": "träd", "lank": "/arter/mullbär" },
-  { "id": "jordärtskocka", "namn": "Jordärtskocka", "x": 169, "y": 123, "typ": "ört", "lank": "/arter/jordärtskocka" },
+  { "id": "jordärtskocka", "namn": "Jordärtskocka", "x": 168, "y": 130, "typ": "ört", "lank": "/arter/jordärtskocka" },
   { "id": "hybridronn-1", "namn": "Hybridrönn", "x": 88, "y": 117, "typ": "träd", "lank": "/arter/hybridronn", "krondiameter": 1.5 },
   { "id": "rod-syra-1", "namn": "Röd syra", "x": 91, "y": 136, "typ": "ört", "lank": "/arter/rod-syra" },
   { "id": "kvitten-1", "namn": "Kvitten", "x": 108, "y": 130, "typ": "träd", "lank": "/arter/kvitten" },
@@ -62,13 +62,13 @@
   { "id": "ronn-1", "namn": "Rönn", "x": 113, "y": 162, "typ": "träd", "lank": "/arter/ronn" },
   { "id": "pelarplommon-1", "namn": "Pelarplommon", "x": 133, "y": 194, "typ": "träd", "lank": "/arter/pelarplommon" },
 
-  { "id": "graslok-1",      "namn": "Gräslök",        "x": 80,  "y": 113, "typ": "ört",         "lank": "/arter/graslok" },
+  { "id": "graslok-1",      "namn": "Gräslök",        "x": 76,  "y": 113, "typ": "ört",         "lank": "/arter/graslok" },
 
   { "id": "citronmeliss-1", "namn": "Citronmeliss",  "x": 170, "y": 193, "typ": "ört",         "lank": "/arter/citronmeliss" },
   { "id": "oregano-1",     "namn": "Oregano",        "x": 158, "y": 188, "typ": "ört",         "lank": "/arter/oregano" },
-  { "id": "karleksort-1",  "namn": "Kärleksört",     "x": 151, "y": 188, "typ": "ört",         "lank": "/arter/karleksort" },
+  { "id": "karleksort-1",  "namn": "Kärleksört",     "x": 155, "y": 196, "typ": "ört",         "lank": "/arter/karleksort" },
   { "id": "pimpernell-1",  "namn": "Pimpernell",     "x": 104, "y": 175, "typ": "ört",         "lank": "/arter/pimpernell" },
-  { "id": "daglilja-1",    "namn": "Daglilja",        "x": 125, "y": 189, "typ": "ört",         "lank": "/arter/daglilja" },
+  { "id": "daglilja-1",    "namn": "Daglilja",        "x": 143, "y": 196, "typ": "ört",         "lank": "/arter/daglilja" },
 
   { "id": "rankspenat-1",  "namn": "Rankspenat",     "x": 142, "y": 100, "typ": "klätterväxt", "lank": "/arter/rankspenat" },
   { "id": "rankspenat-2",  "namn": "Rankspenat",     "x": 147, "y": 100, "typ": "klätterväxt", "lank": "/arter/rankspenat" },
@@ -114,5 +114,21 @@
   { "id": "humle-r2-3", "namn": "Humle", "x": 209, "y": 173, "typ": "klätterväxt", "lank": "/arter/humle" },
   { "id": "humle-r2-4", "namn": "Humle", "x": 208, "y": 186, "typ": "klätterväxt", "lank": "/arter/humle" },
   { "id": "humle-r2-5", "namn": "Humle", "x": 208, "y": 199, "typ": "klätterväxt", "lank": "/arter/humle" },
-  { "id": "humle-r2-6", "namn": "Humle", "x": 208, "y": 213, "typ": "klätterväxt", "lank": "/arter/humle" }
+  { "id": "humle-r2-6", "namn": "Humle", "x": 208, "y": 213, "typ": "klätterväxt", "lank": "/arter/humle" },
+
+  { "id": "gode-henriks-malla-1", "namn": "Gode Henriks målla", "x": 112, "y": 190, "typ": "ört", "lank": "/arter/gode-henriks-malla" },
+
+  { "id": "malort-1", "namn": "Malört", "x": 161, "y": 188, "typ": "ört", "lank": "/arter/malort" },
+
+  { "id": "pepparmynta-1", "namn": "Pepparmynta", "x": 170, "y": 200, "typ": "ört", "lank": "/arter/pepparmynta" },
+
+  { "id": "gron-mynta-1", "namn": "Grön mynta", "x": 169, "y": 206, "typ": "ört", "lank": "/arter/gron-mynta" },
+
+  { "id": "spansk-korvel-1", "namn": "Spansk körvel", "x": 169, "y": 104, "typ": "ört", "lank": "/arter/spansk-korvel" },
+
+  { "id": "kinesisk-graslok-1", "namn": "Kinesisk gräslök", "x": 80, "y": 133, "typ": "ört", "lank": "/arter/kinesisk-graslok" },
+
+  { "id": "skogslok-1", "namn": "Skogslök", "x": 84, "y": 106, "typ": "ört", "lank": "/arter/skogslok" },
+
+  { "id": "piplok-1", "namn": "Piplök", "x": 81, "y": 109, "typ": "ört", "lank": "/arter/piplok" }
 ]

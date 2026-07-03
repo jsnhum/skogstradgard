@@ -1,5 +1,8 @@
 import { Link, useNavigate } from "react-router-dom";
 import växter from "./vaxter.json";
+import arter from "./arter.json";
+
+const bildPerId = Object.fromEntries(arter.map(a => [a.id, a.bild]));
 
 const typFärg = {
   träd:        "#3a6e28",
@@ -61,6 +64,26 @@ export default function VaxtLista() {
           font-size: 1.05rem;
           color: #2c3a1e;
           flex: 1;
+          display: flex;
+          align-items: center;
+          gap: 0.6rem;
+        }
+        .vaxt-bild {
+          width: 38px;
+          height: 38px;
+          border-radius: 3px;
+          background: #ddd9c4;
+          flex-shrink: 0;
+          overflow: hidden;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 1rem;
+        }
+        .vaxt-bild img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
         }
         .vaxt-actions {
           display: flex;
@@ -118,14 +141,20 @@ export default function VaxtLista() {
             }}>
               {bokstav}
             </div>
-            {grupp.map(v => (
+            {grupp.map(v => {
+              const slug = v.lank.split("/").pop();
+              const bild = bildPerId[slug];
+              return (
               <div key={v.id} className="vaxt-rad">
                 <span className="vaxt-namn">
+                  <span className="vaxt-bild">
+                    {bild ? <img src={bild} alt="" /> : "🌿"}
+                  </span>
                   <span style={{
                     display: "inline-block", width: 8, height: 8,
                     borderRadius: v.typ === "träd" || v.typ === "buske" ? "50%" : "0",
                     background: typFärg[v.typ] || "#7a9a4a",
-                    marginRight: "0.5rem", verticalAlign: "middle",
+                    flexShrink: 0,
                     transform: v.typ === "ört" ? "rotate(45deg)" : "none",
                   }}/>
                   {v.namn}
@@ -139,7 +168,8 @@ export default function VaxtLista() {
                   </Link>
                 </div>
               </div>
-            ))}
+              );
+            })}
           </div>
         ))}
       </div>

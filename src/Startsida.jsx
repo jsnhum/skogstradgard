@@ -62,12 +62,6 @@ export default function Startsida() {
       {/* Innehåll */}
       <div style={{ maxWidth: 640, margin: "0 auto", padding: "2.5rem 1.5rem 4rem" }}>
 
-        <p style={{
-          fontSize: "0.75rem", letterSpacing: "0.18em", textTransform: "uppercase",
-          color: "#8a7a5a", marginBottom: "0.6rem",
-        }}>
-          Agunnaryds allmänning · Småland
-        </p>
         <h1 style={{
           fontFamily: "'Playfair Display', serif",
           fontSize: "clamp(2rem, 6vw, 3rem)",
