@@ -1,19 +1,11 @@
-
-
-
 hybridronn.jpg  (Hybridrönn)
 kvitten.jpg  (Kvitten)
 blabärstry.jpg  (Blåbärstry)
-rabarber.jpg  (Rabarber)
-funkia.jpg  (Funkia)
 libsticka.jpg  (Libsticka)
 smultron.jpg  (Smultron)
 kastanj.jpg  (Kastanj)
-egyptisk-luftlok.jpg  (Egyptisk luftlök)
 bredbladig-syra.jpg  (Bredbladig syra)
 svartrot.jpg  (Svartrot)
-loparfetblad.jpg  (Löparfetblad)
-flader.jpg  (Fläder)
 bjork.jpg  (Björk)
 vallort.jpg  (Vallört)
 apple.jpg  (Äpple)
@@ -25,7 +17,3 @@ johannesort.jpg  (Johannesört)
 citronmeliss.jpg  (Citronmeliss)
 oregano.jpg  (Oregano)
 pimpernell.jpg  (Pimpernell)
-gode-henriks-malla.jpg  (Gode Henriks målla)
-
-
-piplok.jpg  (Piplök)
